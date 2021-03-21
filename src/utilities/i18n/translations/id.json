@@ -1,0 +1,15 @@
+{
+    "splashScreen" : {
+        "title": "Screen Splash"
+    },
+    "signInScreen": {
+        "title": "Screen Sign In"
+    },
+    "homeScreen": {
+        "title": "Screen Rumah"
+    },
+    "locale": {
+        "en": "Inggris",
+        "id": "Indonesia"
+    }
+}
